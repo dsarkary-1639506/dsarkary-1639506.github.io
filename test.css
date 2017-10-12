@@ -1,0 +1,30 @@
+#Header{
+	border: solid 8px black;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10 px;
+}
+
+#LeftNav{
+	border: solid 8px black;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10 px;
+}
+
+#Content{
+	border: solid 8px black;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10 px;
+}
+
+#Footer{
+	border: solid 8px black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10 px;
+}
